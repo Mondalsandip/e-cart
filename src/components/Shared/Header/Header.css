@@ -1,0 +1,22 @@
+
+.icon-container{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.flex-items{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.header-text{
+    color: white;
+}
+.show-count:hover, .show-count:active{
+    background-color: #ffc100;
+
+}
+.show-reg{
+    cursor: pointer;
+}
